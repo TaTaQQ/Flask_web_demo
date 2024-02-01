@@ -1,2 +1,2 @@
-# demo_flask_web
+# flask web demo
 Refer to twitter’s website.
